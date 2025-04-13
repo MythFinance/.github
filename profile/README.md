@@ -1,6 +1,6 @@
 # Myth.Finance Code
 
-Open-source and source-available code by [Myth Finance](https://myth.finance)
+Open-source and source-available code by **Myth Finance**
 
 Frontend: [myth.finance](https://myth.finance)
 
