@@ -1,4 +1,4 @@
-# Myth.Finance
+# Myth.Finance Code
 
 Open-source and source-available code by [Myth Finance](https://myth.finance)
 
